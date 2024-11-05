@@ -1,0 +1,93 @@
+---
+title: "Kick-off session Boook club<BR> Happy Git and Hithub for the useR"
+subtitle: "Boook club R-Ladies Bergen, R-Ladies Den Bosch, R-Ladies Amsterdam"
+author: ""
+format: 
+  rladies-revealjs:
+    embed-resources: true  # uncomment for making a selfcontained html for sharing
+    slide-number: true
+    pdf-max-pages-per-slide: 1
+    footer: "[Boook club R-Ladies Bergen, R-Ladies Den Bosch, R-Ladies Amsterdam]"
+    incremental: true
+---
+
+```{r}
+library(fontawesome) # 0.4.0
+
+```
+
+##  {background-color="#562457"}
+
+![](session_01.png){fig-align="center"}
+
+# Program for today
+
+-  Intro to R-Ladies (Sehee)
+-  Intro boook club (Sehee)
+-  Intro Jenny (Martine)
+-  Talk with Jenny (Kylie)
+-  Time left? start with chps 1/2 (Sehee)
+
+
+## R-Ladies {background-image="border.png"}
+
+-   Worldwide organization promoting gender diversity in R community since 2012
+-   by encouraging, inspiring, and empowering people of genders currently under-represented
+-   by building collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide
+
+## R-Ladies Chapters
+
+![](chapters.png){fig-align="left"}
+
+-   225 chapters
+-   65 countries
+-   This will be at least the 3945th event `r fa("sun", fill = "purple")`
+
+
+# Some house rules
+
+-  R-Ladies is dedicated to providing a harassment-free experience for everyone
+-  We do not tolerate harassment of participants in any form
+-  See [the code of conduct.](https://rladies.org/code-of-conduct/)
+
+# Welcome to the boook club!
+
+- Joint effort RLadies Bergen, R-Ladies Den Bosch and R-Ladies Amsterdam  
+- Every 2 weeks visit a chapter of the book  
+["Happy Git and Github for the useR](https://happygitwithr.com/) by Jenny Bryan
+- Sessions are not recorded, slides are shared 
+
+# What to expect from this boook club
+
+-  Presentations summarising the key points on each topic of the book
+-  Room to discuss questions and other thoughts
+-  Not necessary to read the chapters in advance, but feel free to do so
+-  During sessions, we can share thoughts in a google doc (link shared in chat)
+-  Session every 2nd tuesday, at 5 pmm lead by presenter
+
+
+# Jenny Bryan
+
+-  Ph.D. and M.A. in Biostatistics
+-  RStudio 
+-  Adjunct Professor University British Columbia
+-  Member R Foundation
+-  Leadership Committee rOpenSci
+-  Scientific Advisory Board BioConductor
+
+
+## And now the floor is for Jenny!
+
+. . .
+
+![](tenor.gif){.absolute top=100 left=0 width="800"}
+
+![](gitwit.png){.absolute top=130 left=280 width=120 }
+
+
+```{r, eval = FALSE}
+pagedown::chrome_print("session_01_intro.html")
+
+```
+
+
