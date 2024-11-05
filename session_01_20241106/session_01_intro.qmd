@@ -22,17 +22,17 @@ library(fontawesome) # 0.4.0
 
 # Program for today
 
--  Intro to R-Ladies (Sehee)
--  Intro boook club (Sehee)
--  Intro Jenny (Martine)
--  Talk with Jenny (Kylie)
--  Time left? start with chps 1/2 (Sehee)
+-  Intro to R-Ladies   (Sehee)
+-  Intro boook club    (Sehee)
+-  Intro: Speaker (Jennifer "Jenny" Bryan)  (Martine)
+-  Talk with Jenny     (Kylie)
+-  *If time left: Presentation of Chapter 2 *Installation* & Chapter 3 *Connect Git, GitHub, RStudio** (Sehee)
 
 
 ## R-Ladies {background-image="border.png"}
 
 -   Worldwide organization promoting gender diversity in R community since 2012
--   by encouraging, inspiring, and empowering people of genders currently under-represented
+-   by encouraging, inspiring, and empowering people of genders currently underrepresented
 -   by building collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide
 
 ## R-Ladies Chapters
@@ -48,28 +48,29 @@ library(fontawesome) # 0.4.0
 
 -  R-Ladies is dedicated to providing a harassment-free experience for everyone
 -  We do not tolerate harassment of participants in any form
--  See [the code of conduct.](https://rladies.org/code-of-conduct/)
+-  See [the code of conduct.](https://rladies.org/coc/)
 
 # Welcome to the boook club!
 
-- Joint effort RLadies Bergen, R-Ladies Den Bosch and R-Ladies Amsterdam  
-- Every 2 weeks visit a chapter of the book  
+- Joint effort R-Ladies Bergen, R-Ladies Den Bosch and R-Ladies Amsterdam  
+- Every 2 weeks: visit a chapter of the book  
 ["Happy Git and Github for the useR](https://happygitwithr.com/) by Jenny Bryan
 - Sessions are not recorded, slides are shared 
 
 # What to expect from this boook club
 
--  Presentations summarising the key points on each topic of the book
--  Room to discuss questions and other thoughts
--  Not necessary to read the chapters in advance, but feel free to do so
--  During sessions, we can share thoughts in a google doc (link shared in chat)
--  Session every 2nd tuesday, at 5 pmm lead by presenter
+-  Presentation of one "big" book chapter: Summary (& demonstration)
+-  Open discussion for questions and thoughts
+-  Optional pre-reading of chapters *strongly recommended though!*
+-  Google doc for shared notes and questions (link shared in chat)
+-  Session every second Tuesday (5 PM CET), led by presenter
+-  Arrangements organized and shared on Meetup - BECOME A MEMBER OF YOUR CHAPTER!
 
 
 # Jenny Bryan
 
 -  Ph.D. and M.A. in Biostatistics
--  RStudio 
+-  RStudio (Posit)
 -  Adjunct Professor University British Columbia
 -  Member R Foundation
 -  Leadership Committee rOpenSci
