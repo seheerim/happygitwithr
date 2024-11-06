@@ -66,6 +66,13 @@ library(fontawesome) # 0.4.0
 -  Session every second Tuesday (5 PM CET), led by presenter
 -  Arrangements organized and shared on Meetup - BECOME A MEMBER OF YOUR CHAPTER!
 
+# Are YOU our next presenter?
+-  Are **YOU** our next presenter?
+-  We’re looking for passionate speakers to present chapters!
+-  Please contact us:
+-  R-Ladies Amsterdam (Kylie, ainslie.kylie@gmail.com)
+-  R-Ladies Bergen    (Sehee, sehee.rim@gmail.com)
+-  R-Ladies Den Bosch  (Martine, martine.jansen@gmail.com)
 
 # Jenny Bryan
 
